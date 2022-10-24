@@ -28,6 +28,8 @@ Pull requestler kabul edilir.Büyük değişikler için , lütfen önce neyi de�
 
 [MIT](choosealicense.com/licenses/mit/)
 
+[patika.dev](https://www.patika.dev/tr)
+
 ![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
 
 
